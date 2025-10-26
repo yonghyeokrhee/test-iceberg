@@ -2,10 +2,16 @@
  - virtual environments management : `uv`
  - install denps: `pip install`
  - Run test: `pytest`
+ - environment : `.venv`
+ 
+
+## Codex History
+ - Write any command to codex history in history.log
 
 ## Git
  - remote repository : `https://github.com/yonghyeokrhee`
  - username: `yonghyeokrhee`
+ - Always commit after making changes to python files and related scripts.
 
 ## aws configure
  - aws profile: `yongs-dev`
@@ -23,6 +29,8 @@
 ## aws Iceberg
   - s3 bucket : `iceberg-test-database`
   - warehouse : `iceberg_db.db`
+  - database : `iceberg_demo`
+  - table : `order_history`
 
 ## Infra
  - Use terraform as Infra deploy
