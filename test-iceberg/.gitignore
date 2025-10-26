@@ -1,0 +1,7 @@
+.venv/
+warehouse/
+vendor/amazon-corretto-17.jdk/
+vendor/*.tar.gz
+vendor/*.jar
+__pycache__/
+pytest.cache/
